@@ -1,5 +1,7 @@
 ## Hi there 👋
-Welcome to Prototype club! You have made it to the right place.
+Welcome to Prototype club! You have made it to the right place. <br>
+[Skip to how to participate club activities](#How-can-I-contribute) <br>
+
 
 # What is Prototype Club?
 ## Like a book club, but for game makers. <br>
@@ -18,38 +20,31 @@ https://discord.gg/M5Nxhnwv
 # How can I contribute?
 ## Contribution guide/guidelines 
 1. Share Your Prototypes
-  There are two ways of sharing prototypes, you can either: 
-  a. This is the recommended way. Clone your project and set the Prototype-Club organization as the owner. This way, you can keep your project private and only share it with the community.
-  b. Share a link to your project on discord. If you don't know how to use GIT or GitHub this is an easy way to get started. But we strongly recommend using GitHub.
+  Fork your project and set the Prototype-Club organization as the owner.<br>
+    - You may also want to add some screenshots or a video to your readme to give others a sense of what your prototype is about. 
+    - Private Repos are only visible to other members of Prototype Club. <br>
 
-2. Provide Feedback
+2. Work on any prototype you find interesting
+  If you find a prototype you like, start working on it and contribute your changes, no need to ask for permission. <br>
+  Join forces with other members on interesting prototypes. Share your skills, be it coding, art, sound design, or writing. Collaboration is key.
+    - If you want to make a change that is radically different, out of scope or feature creep, just make a branch and work on it there instead.
+  
+3. Provide Feedback / Discuss
     You can use the issues tab to provide feedback on a project. You can also use the comments section on the project page.
+    - Club activity will automatically show up on the github channel on discord. <br>
 
-3. Collaborate
-  Join forces with other members on interesting prototypes. Share your skills, be it coding, art, sound design, or writing. Collaboration is key to creating something special.
-4. Participate in Discussions
+4. Discuss on Discord
+  Engage in game design discussions on Discord. Share your thoughts, ask questions, and explore new concepts. This helps everyone grow as game designers.
 
-Engage in game design discussions on Discord. Share your thoughts, ask questions, and explore new concepts. This helps everyone grow as game designers.
+5. Turn something into a full game.
+  If you find a prototype you like, you can fork it and turn it into a full game. You can also ask the original creator if they would like to collaborate on a full game. Don't be afarid to allow others to use your prototype as a base for their own game, that is the point of Prototype Club, to inspire eachother.
 
-5. Respect and Support
+6. Respect and Support
+  Be respectful and supportive of all members. Constructive criticism is welcome, but always be kind and considerate. Remember, we’re all here to learn and have fun. <br>
+  Stay active in the community by regularly checking in, sharing updates on your progress, and participating in group activities. Your involvement helps keep the club vibrant and dynamic.
 
-Be respectful and supportive of all members. Constructive criticism is welcome, but always be kind and considerate. Remember, we’re all here to learn and have fun.
+# GIT Workflow
+  We use git to manage our projects. If you are new to git, please ask for help. We are happy to help you get started. <br>
 
-6. Stay Active
-
-Stay active in the community by regularly checking in, sharing updates on your progress, and participating in group activities. Your involvement helps keep the club vibrant and dynamic.
-
-- We use git to manage our projects. If you are new to git, you can learn more about it here.
-- If if you want to make a change that is out of scope or feature creep, make a branch and work on it there.
-
-
-
-
-# How is prototype club? 
-## Contribute to a prototype
-## Contribute your own project
-Create a fork of your project, making Prototype-Club the owner.
-Private Repos are only visible to other members
-
-
-Useful resources - where can the community find your donecs? Is there anything else the community should know?
+# Useful resources
+  If anyone has some useful resources we can share it here.
