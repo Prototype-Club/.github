@@ -1,5 +1,6 @@
 ## Hi there 👋
-Welcome to Prototype club! You have made it to the right place.
+Welcome to Prototype club! You have made it to the right place. <br>
+[Skip to how to participate club activities](#How-can-I-contribute) <br>
 
 # What is Prototype Club?
 ### Like a book club, but for game makers. <br>
@@ -13,53 +14,37 @@ Our goal is to push the discussion of game design forward. We aim to generate ne
 Join the discord to discuss ideas, game design, and get involved. <br>
 [🎮 Discord](https://discord.gg/M5Nxhnwv)
 
-
 # How can I contribute?
 ## Contribution guide/guidelines 
-
-
 1. **Share Your Prototypes** <br>
-  There are two ways of sharing prototypes, you can either: 
-   * **Recommended way:** Clone your project and set the Prototype-Club organization as the owner. This way, you can keep your project private and only share it with the community.
-   <br><br>
-    Check out [How we use git](#how-we-use-git) for more information.
+  To share just **fork your project and set the Prototype-Club organization as the owner.**<br>
+    - Add some screenshots or a video to your readme to give others a sense of what your prototype is about. 
+    - Private Repos are only visible to other members of Prototype Club. <br>
+    - You might also want to provide a build of the game if you want feedback. 
+    - Check out [How we use git](#how-we-use-git) for more information on git.
     <br><br>
-   * Alternative: Share a link to your project on discord. If you don't know how to use GIT or GitHub this is an easy way to get started. But we strongly recommend using GitHub.
+    - Alternative: Share a link to your project on discord. If you don't know how to use GIT or GitHub this is an easy way to get started. But we strongly recommend using GitHub.
    
-    You might also want to provide a build of the game if you want feedback. 
+1. **Work on any prototype you find interesting**
+  If you find a prototype you like, start working on it and contribute your changes, no need to ask for permission. <br>
+  Join forces with other members on interesting prototypes. Share your skills, be it coding, art, sound design, or writing. Collaboration is key.
+    - Note: If you want to make a change that is radically different, out of scope or feature creep, just make a branch and work on it there instead.
 
 1. **Provide Feedback** <br>
-    Engage in game design discussions on Discord. Share your thoughts, ask questions, and explore new concepts. This helps everyone grow as game designers.
-    * Discuss on [🎮 Discord](https://discord.gg/M5Nxhnwv)
-    * You can use the issues tab to provide feedback on a project. You can also use the comments section on the project page.
+    - Use Github features like issues tab or discussions tab provide feedback on a project.
+    - Discuss on [🎮 Discord](https://discord.gg/M5Nxhnwv). Engage in game design discussions. Share your thoughts, ask questions, and explore new concepts. This helps everyone grow as game designers.
+    - Club git activity will automatically show up on the github channel on discord. <br>
 
-1. **Collaborate** <br>
-  Join forces with other members on interesting prototypes. Share your skills, be it coding, art, sound design, or writing. Collaboration is key to creating something special.
+1. **Turn something into a full game.** <br>
+  If you find a prototype you like, you can fork it and turn it into a full game. You can also ask the original creator if they would like to collaborate on a full game. Don't be afarid to allow others to use your prototype as a base for their own game, that is the point of Prototype Club, to inspire eachother.
 
 1. **Respect and Support**<br>
-Be respectful and supportive of all members. Constructive criticism is welcome, but always be kind and considerate. Remember, we’re all here to learn and have fun.
+Be respectful and supportive of all members. Constructive criticism is welcome, but always be kind and considerate. Remember, we’re all here to learn and have fun. <br>
+Stay active in the community by regularly checking in, sharing updates on your progress, and participating in group activities. Your involvement helps keep the club vibrant and dynamic.
 
-# GIT
-## How we use git
-Private projects on Prototype-Club are only accessable to other memembers. This is the main way we share projects. <br> (You can make it public if you want to share your project with everyone on the internet.)
-
-*Use the following guide to contriubte using git and github.*
-
-### Sharing project guide
-
-* Create a fork of your project, making Prototype-Club the owner. <br> 
-Private Repos are only visible to other members
-
-* If you project is not on github already, you can make a Repo making Prototype-Club the owner.
-
-* If you want to make a change that is out of scope or feature creep, **make a branch and work on it there**.
-
-* Any changes to repos in Prototype-Club will be displayed on our [🎮 Discord](https://discord.gg/M5Nxhnwv). Use it to keep up to date with what others are doing.
-
-
-
-## Learn Git
-We use git to manage our projects. If you are new to git, you can learn more about it:
+# Learn Git
+We use git to manage our projects. If you are new to git, please ask for help. We are happy to help you get started. <br>
+You can also learn more about it here:
 * [Code Academy Github Desktop Tutorial](https://www.codecademy.com/article/what-is-git-and-github-desktop).
 * If you are more of a visual learner try [Git, GitHub, & GitHub Desktop for beginners](https://www.youtube.com/watch?v=8Dd7KRpKeaE).
 
@@ -70,7 +55,5 @@ Extra Tutorials:
 * [Deep Dive](https://www.atlassian.com/git/tutorials)
 <br>
 
-
-
 # Useful Resources
-Coming soon
+If anyone has some useful resources we can share it here.
