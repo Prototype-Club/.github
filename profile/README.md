@@ -37,7 +37,7 @@ Join the discord to discuss ideas, game design, and get involved. <br>
     - Club git activity will automatically show up on the github channel on discord. <br>
 
 1. **Turn something into a full game.** <br>
-  If you find a prototype you like, you can fork it and turn it into a full game. You can also ask the original creator if they would like to collaborate on a full game. Don't be afarid to allow others to use your prototype as a base for their own game, that is the point of Prototype Club, to inspire eachother.
+  If you find a prototype you like, you can fork it and turn it into a full game. You can also ask the original creator if they would like to collaborate on a full game. Don't be afraid to allow others to use your prototype as a base for their own game, that is the point of Prototype Club, to inspire eachother.
 
 1. **Respect and Support**<br>
 Be respectful and supportive of all members. Constructive criticism is welcome, but always be kind and considerate. Remember, we’re all here to learn and have fun. <br>
