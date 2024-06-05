@@ -17,14 +17,15 @@ Join the discord to discuss ideas, game design, and get involved. <br>
 # How can I contribute?
 ## Contribution guide/guidelines 
 1. **Share Your Prototypes** <br>
-  > To share just ***fork your project and set the Prototype-Club organization as the owner.***
+    
+    > To share just ***fork your project and set the Prototype-Club organization as the owner.***
 
-  * Add some screenshots or a video to your readme to give others a sense of what your prototype is about. 
-  * Private Repos are only visible to other members of Prototype Club. <br>
-  * You might also want to provide a build of the game if you want feedback. 
-  * Check out [How we use git](#how-we-use-git) for more information on git.
-  <br><br>
-  * Alternative: Share a link to your project on discord. If you don't know how to use GIT or GitHub this is an easy way to get started. But we strongly recommend using GitHub.
+    * Add some screenshots or a video to your readme to give others a sense of what your prototype is about. 
+    * Private Repos are only visible to other members of Prototype Club. <br>
+    * You might also want to provide a build of the game if you want feedback. 
+    * Check out [How we use git](#how-we-use-git) for more information on git.
+    <br><br>
+    * Alternative: Share a link to your project on discord. If you don't know how to use GIT or GitHub this is an easy way to get started. But we strongly recommend using GitHub.
 1. **Work on any prototype you find interesting** <br>
   If you find a prototype you like, start working on it and contribute your changes, no need to ask for permission. <br>
   Join forces with other members on interesting prototypes. Share your skills, be it coding, art, sound design, or writing. Collaboration is key.
