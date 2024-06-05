@@ -25,7 +25,7 @@ Join the discord to discuss ideas, game design, and get involved. <br>
     <br><br>
     - Alternative: Share a link to your project on discord. If you don't know how to use GIT or GitHub this is an easy way to get started. But we strongly recommend using GitHub.
    
-1. **Work on any prototype you find interesting**
+1. **Work on any prototype you find interesting** <br>
   If you find a prototype you like, start working on it and contribute your changes, no need to ask for permission. <br>
   Join forces with other members on interesting prototypes. Share your skills, be it coding, art, sound design, or writing. Collaboration is key.
     - Note: If you want to make a change that is radically different, out of scope or feature creep, just make a branch and work on it there instead.
