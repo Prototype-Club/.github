@@ -10,10 +10,6 @@ Here, we share prototypes with each other, work on the ones that seem fun, and s
 ### Prototypes generate ideas, ideas generate prototypes, prototypes generate games. <br>
 Our goal is to push the discussion of game design forward. We aim to generate new ideas, and collaborate on experimental (and not so experimental) games.
 
-## Discuss on Discord
-Join the discord to discuss ideas, game design, and get involved. <br>
-[🎮 Discord](https://discord.gg/M5Nxhnwv)
-
 # How can I contribute?
 ## Contribution guide/guidelines 
 1. **Share Your Prototypes** <br>
